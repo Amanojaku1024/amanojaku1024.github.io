@@ -1,4 +1,4 @@
-# Amanojaku1024 個人網頁
+# wyw 個人網頁
 
 https://amanojaku1024.github.io/
 
