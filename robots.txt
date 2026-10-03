@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wyw970628.github.io/sitemap.xml
