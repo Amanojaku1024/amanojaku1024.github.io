@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "site": "https://wyw970628.github.io/",
-  "generatedAt": "2026-10-03T16:38:27.599Z",
+  "site": "https://amanojaku1024.github.io/",
+  "generatedAt": "2026-10-03T17:53:51.669Z",
   "posts": 10,
   "featured": 4,
   "routes": [
@@ -29,10 +29,11 @@
     "LICENSE-ASTRO.txt",
     "LICENSE-PHOSPHOR.txt",
     "README.md",
-    "_astro/BaseLayout.D81BRGRt.css",
+    "_astro/BaseLayout.abZVyyMX.css",
     "_astro/PostList.gOqOrzEJ.css",
-    "_astro/index.DLhw1gbY.css",
+    "_astro/index.CA9G5p1E.css",
     "about/index.html",
+    "amanojaku.svg",
     "article.css",
     "assets/audio-cqt.png",
     "assets/crypto-lab.png",
@@ -181,7 +182,6 @@
     "work/index.html",
     "work/piano-transcription/index.html",
     "work/science-measurement/index.html",
-    "wyw-rose-frame.svg",
-    "wyw.svg"
+    "wyw-rose-frame.svg"
   ]
 }

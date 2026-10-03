@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://wyw970628.github.io/sitemap.xml
+Sitemap: https://amanojaku1024.github.io/sitemap.xml
