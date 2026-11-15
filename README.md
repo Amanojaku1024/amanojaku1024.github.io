@@ -7,3 +7,9 @@ https://amanojaku1024.github.io/
 目前使用 GitHub Pages 公開網站，Docker 部署與 Tailscale 網頁分享已停止。原始文章資料及匯出工具仍由網站持有人在本機保留。此儲存庫不包含草稿、資料庫、管理帳號、本機備份或未處理版權的舊版本。
 
 圖片與模板來源：https://amanojaku1024.github.io/image-credits/
+
+## youtube downloader
+
+[專案介紹](https://amanojaku1024.github.io/posts/youtube-downloader/) · [原始碼](projects/youtube-downloader/) · [下載包](downloads/youtube-downloader-v1.0.0.zip)
+
+公開目錄提供 macOS 下載工具的原始碼與安裝腳本；不含音樂或任務資料。更新網站本機匯出器時，請同步保留 `projects/youtube-downloader/`、`downloads/youtube-downloader-*` 與介紹頁／文章索引的新增內容。
