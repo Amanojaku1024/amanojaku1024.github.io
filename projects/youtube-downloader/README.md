@@ -1,8 +1,10 @@
 # youtube downloader
 
+> 本目錄保留網站初次發布的原始碼快照。最新程式、使用手冊與版本下載請見 [獨立 GitHub 專案](https://github.com/Amanojaku1024/youtube-downloader)。
+
 以 **Spotlight、Apple 捷徑與原生 macOS 視窗**操作的 YouTube／YouTube Music MP3 下載工具。日常使用不需要開啟 Terminal。
 
-[專案介紹與下載](https://amanojaku1024.github.io/posts/youtube-downloader/) · [功能與分類規則](FEATURES.md) · [測試範圍](TEST_REPORT.md)
+[專案介紹與下載](https://amanojaku1024.github.io/youtube-downloader/) · [功能與分類規則](FEATURES.md) · [測試範圍](TEST_REPORT.md)
 
 ## 功能
 
