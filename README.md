@@ -10,6 +10,6 @@ https://amanojaku1024.github.io/
 
 ## youtube downloader
 
-[專案介紹](https://amanojaku1024.github.io/posts/youtube-downloader/) · [原始碼](projects/youtube-downloader/) · [下載包](downloads/youtube-downloader-v1.0.0.zip)
+[專案介紹](https://amanojaku1024.github.io/youtube-downloader/) · [原始碼](projects/youtube-downloader/) · [下載包](downloads/youtube-downloader-v1.0.0.zip)
 
 公開目錄提供 macOS 下載工具的原始碼與安裝腳本；不含音樂或任務資料。更新網站本機匯出器時，請同步保留 `projects/youtube-downloader/`、`downloads/youtube-downloader-*` 與介紹頁／文章索引的新增內容。

@@ -23,7 +23,8 @@
     "/posts/apcs-learning-record/",
     "/posts/ai-crypto-lab/",
     "/posts/multi-instrument-audio-experiment/",
-    "/posts/youtube-downloader/"
+    "/posts/youtube-downloader/",
+    "/youtube-downloader/"
   ],
   "files": [
     ".nojekyll",
@@ -40,6 +41,7 @@
     "assets/audio-cqt.png",
     "assets/crypto-lab.png",
     "assets/earth-horizon-nasa.jpg",
+    "assets/youtube-downloader.css",
     "categories/index.html",
     "downloads/youtube-downloader-v1.0.0.sha256",
     "downloads/youtube-downloader-v1.0.0.zip",
@@ -196,6 +198,7 @@
     "static/github-search-client.mjs",
     "static/github-search.mjs",
     "static/posts-index.json",
+    "static/youtube-downloader.mjs",
     "uploads/04331132-a479-49ae-b060-6a7b6f235a84.webp",
     "uploads/1be6d3f3-499e-4a16-8ebb-8d82af94fede.webp",
     "uploads/3529a0c3-8974-4ef0-948e-172104a2382f.webp",
@@ -215,6 +218,7 @@
     "work/piano-transcription/index.html",
     "work/science-measurement/index.html",
     "wyw-rose-frame.svg",
-    "wyw.svg"
+    "wyw.svg",
+    "youtube-downloader/index.html"
   ]
 }
